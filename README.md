@@ -18,10 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/alur-mohammed-yaseer-43b249217/" target="blank"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.mysql.com/" target="blank"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css" alt="MySQL" height="30" width="40" /></a>
-<a href="https://leetcode.com/yaseer_03/" target="blank"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css" alt="LeetCode" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yaseeralur03" target="blank"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css" alt="HackerRank" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alur-mohammed-yaseer-43b249217/" target="blank"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css" alt="LinkedIn" height="30" width="40" /></a><a href="https://leetcode.com/yaseer_03/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/yaseeralur03" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/hackerrank.png" alt="HackerRank" height="30" width="40" /></a>
 <a href="https://twitter.com/yaseeralur03" target="blank"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css" alt="Twitter" height="30" width="40" /></a>
 </p>
 
@@ -30,22 +28,22 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css" alt="bootstrap" width="40" height="40"/>
 </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
+<a href="https://www.java.com" target="blank" rel="noreferrer">
     <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css" alt="java" width="40" height="40"/>
 </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<a href="https://www.mysql.com/" target="blank" rel="noreferrer">
     <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css" alt="mysql" width="40" height="40"/>
 </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<a href="https://www.w3.org/html/" target="blank" rel="noreferrer">
     <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css" alt="html5" width="40" height="40"/>
 </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<a href="https://www.w3schools.com/css/" target="blank" rel="noreferrer">
     <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css" alt="css3" width="40" height="40"/>
 </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaseer-03&show_icons=true&locale=en&layout=compact" alt="yaseer-03" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaseer-03&show_icons=true&locale=en" alt="yaseer-03" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaseer-03&show_iconstrue&locale=en" alt="yaseer-03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaseer-03&" alt="yaseer-03" /></p>
