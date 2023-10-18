@@ -6,13 +6,15 @@
 
 - 🌱 I’m currently learning **Spring, MySQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Yaseer-03](https://github.com/Yaseer-03)
+- 👨‍💻 All of my projects are available at [Click here](https://github.com/Yaseer-03)
 
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **yaseeralur03@gmail.com**
 
-- 📄 Know about my experiences [https://yaseer-03.github.io/Portfolio/images/certificates/Ys_Resume.pdf](https://yaseer-03.github.io/Portfolio/images/certificates/Ys_Resume.pdf)
+- 🧑‍🎓All of my achievements are available in [Click here](https://github.io/Portfolio)
+
+- 📄 Know about my experiences [Click here](https://yaseer-03.github.io/Portfolio/images/certificates/Ys_Resume.pdf)
 
 - ⚡ Fun fact **I am funny**
 
