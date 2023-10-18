@@ -18,25 +18,29 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/alur-mohammed-yaseer-43b249217/" target="blank"><i class="fab fa-linkedin" style="font-size: 30px; color: #0077B5;"></i></a><a href="https://leetcode.com/yaseer_03/" target="blank"><i class="fab fa-leetcode" style="font-size: 30px; color: #FFA116;"></i></a><a href="https://www.hackerrank.com/yaseeralur03" target="blank"><i class="fab fa-hackerrank" style="font-size: 30px; color: #2EC866;"></i></a><a href="https://twitter.com/yaseeralur03" target="blank"><i class="fab fa-twitter" style="font-size: 30px; color: #1DA1F2;"></i></a>
+<a href="https://www.linkedin.com/in/alur-mohammed-yaseer-43b249217/" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" height="30" width="40" /></a>
+<a href="https://leetcode.com/yaseer_03/" target="_blank"><img align="center" src="https://img.icons8.com/ios/50/000000/leetcode.png" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/yaseeralur03" target="_blank"><img align="center" src="https://img.icons8.com/windows/32/000000/hackerrank.png" alt="HackerRank" height="30" width="40" /></a>
+<a href="https://twitter.com/yaseeralur03" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <i class="fab fa-bootstrap" style="font-size: 30px; color: #7952B3;"></i>
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/>
 </a>
-<a href="https://www.java.com" target="blank" rel="noreferrer">
-    <i class="fab fa-java" style="font-size: 30px; color: #007396;"></i>
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"/>
 </a>
-<a href="https://www.mysql.com/" target="blank" rel="noreferrer">
-    <i class="fas fa-database" style="font-size: 30px; color: #00758F;"></i>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="mysql" width="40" height="40"/>
 </a>
-<a href="https://www.w3.org/html/" target="blank" rel="noreferrer">
-    <i class="fab fa-html5" style="font-size: 30px; color: #E34F26;"></i>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="40" height="40"/>
 </a>
-<a href="https://www.w3schools.com/css/" target="blank" rel="noreferrer">
-    <i class="fab fa-css3" style="font-size: 30px; color: #1572B6;"></i>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/>
 </a>
 </p>
 
