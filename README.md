@@ -29,9 +29,8 @@
     <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"/>
 </a><a href="https://www.w3.org/html/" target="blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="40" height="40"/>
 </a><a href="https://www.w3schools.com/css/" target="blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/>
-</a><a href="https://www.mysql.com/" target="blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/mysql.png" alt="mysql" width="40" height="40"/>
 </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/>
-</a><a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+</a><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/mysql.png" alt="mysql" width="40" height="40"/></a><a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaseer-03&show_icons=true&locale=en&layout=compact" alt="yaseer-03" /></p>
