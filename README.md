@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaseer-03&label=Profile%20views&color=0e75b6&style=flat" alt="yaseer-03" /> </p>
 
-- 🌱 I’m currently learning **Spring, MySQL**
+<!-- 🌱 I’m currently learning **Spring, MySQL** -->
 
 - 👨‍💻 All of my projects are available at [Click here](https://github.com/Yaseer-03)
 
