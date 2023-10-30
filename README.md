@@ -14,14 +14,14 @@
 
 - 🧑‍🎓All of my achievements are available in [Click here](https://github.io/Portfolio)
 
-- 📄 Know about my experiences [Click here](https://yaseer-03.github.io/Portfolio/images/certificates/Ys_Resume.pdf)
+- 📄 Know about my experiences [Click here](https://yaseer-03.github.io/Portfolio/images/certificates/Resume.pdf)
 
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/alur-mohammed-yaseer-43b249217/" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/yaseeralur03" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alur-mohammed-yaseer-43b249217/" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" /></a>
+<a href="https://twitter.com/yaseeralur03" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
