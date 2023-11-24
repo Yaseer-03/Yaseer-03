@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alur Mohammed Yaseer</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaseer-03&label=Profile%20views&color=0e75b6&style=flat" alt="yaseer-03" /> </p>
 
-<!-- 🌱 I’m currently learning **Spring, MySQL** -->
+<!-- 🌱 I’m currently learning **Spring, DSA, MySQL** --> 
 
 - 👨‍💻 All of my projects are available at [Click here](https://github.com/Yaseer-03)
 
