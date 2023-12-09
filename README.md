@@ -26,7 +26,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"/>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/>
+</a>
 </a><a href="https://www.w3.org/html/" target="blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="40" height="40"/>
 </a><a href="https://www.w3schools.com/css/" target="blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/>
 </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/>
