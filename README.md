@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [Click here](https://github.com/Yaseer-03)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java**,**OOP**
 
 - 📫 How to reach me **yaseeralur03@gmail.com**
 
