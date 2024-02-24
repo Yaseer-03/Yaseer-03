@@ -22,7 +22,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/alur-mohammed-yaseer-43b249217/" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" /></a>
   <a href="https://twitter.com/yaseeralur03" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" height="40" width="40" /></a>
-  <a href="https://leetcode.com/yaseeralur03/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode" height="40" width="40" /></a>
+  <a href="https://leetcode.com/Yaseer_03/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode" height="40" width="40" /></a>
 </p>
 
 
