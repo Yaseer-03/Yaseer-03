@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaseer-03&label=Profile%20views&color=0e75b6&style=flat" alt="yaseer-03" /> </p>
 
-<!-- 🌱 I’m currently learning **Spring, DSA, MySQL** --> 
+🌱 I’m currently learning **DSA, MySQL** 
 
 - 👨‍💻 All of my projects are available at [Click here](https://github.com/Yaseer-03)
 
@@ -20,9 +20,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/alur-mohammed-yaseer-43b249217/" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" /></a>
-<a href="https://twitter.com/yaseeralur03" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/alur-mohammed-yaseer-43b249217/" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" /></a>
+  <a href="https://twitter.com/yaseeralur03" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" height="40" width="40" /></a>
+  <a href="https://leetcode.com/yaseeralur03/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode" height="40" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
