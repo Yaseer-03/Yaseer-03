@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **yaseeralur03@gmail.com**
 
-- 🧑‍🎓All of my achievements are available in [Click here](https://github.io/Portfolio)
+- 🧑‍🎓All of my achievements are available here [Click here](https://github.io/Portfolio)
 
 - 📄 Know about my experiences [Click here](https://yaseer-03.github.io/Portfolio/images/certificates/Resume.pdf)
 
