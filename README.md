@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaseer-03&label=Profile%20views&color=0e75b6&style=flat" alt="yaseer-03" /> </p>
 
-- 👨‍💻 All of my projects are available at [Click here](https://github.com/Yaseer-03)
+- 👨‍💻 All of my projects are available at [Click here](https://github.com/Yaseer-03?tab=repositories)
 
 - 📫 How to reach me **yaseeralur03@gmail.com**
 
